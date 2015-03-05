@@ -12,9 +12,3 @@ def bubble_sort (array)
   
   array
 end
-
-a = [3,5,4,3,6,7,8,1,2,9,0]
-
-bubble_sort(a)
-
-p a
